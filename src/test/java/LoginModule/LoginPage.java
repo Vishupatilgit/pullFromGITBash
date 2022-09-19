@@ -17,6 +17,7 @@ public class LoginPage
 		driver.findElement(By.id("mat-input-1")).sendKeys("Test");
 		driver.findElement(By.id("mat-input-3")).sendKeys("7777777788");
 		driver.findElement(By.id("mat-input-4")).sendKeys("test@gmail.com");
+		Svgfgrgtrg
 	
 	}
 
